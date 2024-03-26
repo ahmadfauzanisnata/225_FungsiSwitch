@@ -12,5 +12,8 @@ cin >> bilangan1;
 cout << "Masukan bilangan kedua : ";
 cin >> bilangan2;
 }
-
+int penjumlahan(int a, int b)
+{
+	return a + b;
+}
    
